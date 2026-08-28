@@ -1,0 +1,58 @@
+{
+  "parent": "infinitybuttons:first_button",
+  "criteria": {
+    "sticky": {
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "block": {
+                "blocks": [
+                  "infinitybuttons:waxed_copper_button",
+                  "infinitybuttons:waxed_exposed_copper_button",
+                  "infinitybuttons:waxed_weathered_copper_button",
+                  "infinitybuttons:waxed_oxidized_copper_button",
+                  "infinitybuttons:waxed_copper_large_button",
+                  "infinitybuttons:waxed_exposed_copper_large_button",
+                  "infinitybuttons:waxed_weathered_copper_large_button",
+                  "infinitybuttons:waxed_oxidized_copper_large_button"
+                ]
+              }
+            }
+          },
+          {
+            "condition": "minecraft:match_tool",
+            "predicate": {
+              "items": [
+                "minecraft:honey_bottle"
+              ]
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:item_used_on_block"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancement.infinitybuttons.sticky.desc"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "id": "minecraft:honey_bottle"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancement.infinitybuttons.sticky"
+    }
+  },
+  "requirements": [
+    [
+      "sticky"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

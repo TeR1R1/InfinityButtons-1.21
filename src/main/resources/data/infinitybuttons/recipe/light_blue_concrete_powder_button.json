@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "group": "concrete_powder_buttons",
+  "ingredients": [
+    {
+      "item": "minecraft:light_blue_concrete_powder"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "infinitybuttons:light_blue_concrete_powder_button"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    {
+      "item": "infinitybuttons:diamond_button"
+    },
+    {
+      "item": "infinitybuttons:diamond_button"
+    }
+  ],
+  "result": {
+    "id": "infinitybuttons:diamond_large_button",
+    "count": 1
+  }
+}

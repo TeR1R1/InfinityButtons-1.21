@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "S": {
+      "item": "infinitybuttons:spruce_large_button"
+    }
+  },
+  "pattern": [
+    "ISI",
+    " I "
+  ],
+  "result": {
+    "id": "infinitybuttons:letter_button",
+    "count": 1
+  },
+  "show_notification": true
+}

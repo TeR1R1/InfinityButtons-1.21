@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#infinitybuttons:copper_buttons",
+      "required": false
+    },
+    {
+      "id": "#infinitybuttons:concrete_powder_buttons",
+      "required": false
+    },
+    {
+      "id": "#minecraft:stone_buttons",
+      "required": false
+    },
+    "infinitybuttons:iron_button",
+    "infinitybuttons:gold_button",
+    "infinitybuttons:emerald_button",
+    "infinitybuttons:diamond_button",
+    "infinitybuttons:prismarine_button",
+    "infinitybuttons:prismarine_brick_button",
+    "infinitybuttons:dark_prismarine_button",
+    "infinitybuttons:sand_button",
+    "infinitybuttons:red_sand_button",
+    "infinitybuttons:gravel_button"
+  ]
+}

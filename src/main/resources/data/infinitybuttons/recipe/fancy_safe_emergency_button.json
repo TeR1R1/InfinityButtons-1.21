@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "B": {
+      "item": "infinitybuttons:fancy_emergency_button"
+    },
+    "G": {
+      "tag": "c:glass_panes"
+    }
+  },
+  "pattern": [
+    "GGG",
+    "GBG"
+  ],
+  "result": {
+    "id": "infinitybuttons:fancy_safe_emergency_button",
+    "count": 1
+  },
+  "show_notification": true
+}

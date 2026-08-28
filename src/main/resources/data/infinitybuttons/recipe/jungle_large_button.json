@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "group": "wooden_large_buttons",
+  "ingredients": [
+    {
+      "item": "minecraft:jungle_button"
+    },
+    {
+      "item": "minecraft:jungle_button"
+    }
+  ],
+  "result": {
+    "id": "infinitybuttons:jungle_large_button",
+    "count": 1
+  }
+}

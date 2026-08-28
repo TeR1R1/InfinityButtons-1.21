@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    {
+      "item": "infinitybuttons:console_button"
+    },
+    {
+      "item": "minecraft:lever"
+    }
+  ],
+  "result": {
+    "id": "infinitybuttons:console_lever",
+    "count": 1
+  }
+}

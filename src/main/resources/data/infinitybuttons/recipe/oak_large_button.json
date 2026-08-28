@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "group": "wooden_large_buttons",
+  "ingredients": [
+    {
+      "item": "minecraft:oak_button"
+    },
+    {
+      "item": "minecraft:oak_button"
+    }
+  ],
+  "result": {
+    "id": "infinitybuttons:oak_large_button",
+    "count": 1
+  }
+}

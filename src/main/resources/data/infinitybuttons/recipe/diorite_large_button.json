@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    {
+      "item": "infinitybuttons:diorite_button"
+    },
+    {
+      "item": "infinitybuttons:diorite_button"
+    }
+  ],
+  "result": {
+    "id": "infinitybuttons:diorite_large_button",
+    "count": 1
+  }
+}

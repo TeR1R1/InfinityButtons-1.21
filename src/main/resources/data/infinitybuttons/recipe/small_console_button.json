@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "pattern": [
+    "IRI",
+    "III"
+  ],
+  "result": {
+    "count": 4,
+    "id": "infinitybuttons:small_console_button"
+  },
+  "show_notification": true
+}

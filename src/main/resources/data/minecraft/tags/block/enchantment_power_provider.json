@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#infinitybuttons:bookshelf_secret_buttons",
+      "required": false
+    }
+  ]
+}

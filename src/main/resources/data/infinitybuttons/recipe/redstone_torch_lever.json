@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "#": {
+      "item": "minecraft:lever"
+    },
+    "C": {
+      "item": "minecraft:redstone"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "C",
+    "#",
+    "S"
+  ],
+  "result": {
+    "id": "infinitybuttons:redstone_torch_lever",
+    "count": 1
+  },
+  "show_notification": true
+}

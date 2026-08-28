@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "#": {
+      "item": "minecraft:stone_button"
+    },
+    "C": {
+      "tag": "minecraft:coals"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "C",
+    "#",
+    "S"
+  ],
+  "result": {
+    "id": "infinitybuttons:torch_button",
+    "count": 1
+  },
+  "show_notification": true
+}

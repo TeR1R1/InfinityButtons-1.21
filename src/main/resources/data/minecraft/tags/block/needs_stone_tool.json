@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#infinitybuttons:copper_buttons",
+      "required": false
+    },
+    {
+      "id": "#infinitybuttons:copper_large_buttons",
+      "required": false
+    },
+    "infinitybuttons:iron_button",
+    "infinitybuttons:iron_large_button"
+  ]
+}

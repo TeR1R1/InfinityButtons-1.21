@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "group": "wooden_large_buttons",
+  "ingredients": [
+    {
+      "item": "minecraft:bamboo_button"
+    },
+    {
+      "item": "minecraft:bamboo_button"
+    }
+  ],
+  "result": {
+    "id": "infinitybuttons:bamboo_large_button",
+    "count": 1
+  }
+}

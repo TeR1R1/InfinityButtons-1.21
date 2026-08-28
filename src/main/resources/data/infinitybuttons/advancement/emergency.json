@@ -1,0 +1,29 @@
+{
+  "parent": "infinitybuttons:first_button",
+  "display": {
+    "icon": {
+      "id": "infinitybuttons:red_emergency_button"
+    },
+    "title": {
+      "translate": "advancement.infinitybuttons.emergency"
+    },
+    "description": {
+      "translate": "advancement.infinitybuttons.emergency.desc"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "emergencypush": {
+      "trigger": "infinitybuttons:emergency_button_press",
+      "conditions": {}
+    }
+  },
+  "requirements": [
+    [
+      "emergencypush"
+    ]
+  ]
+}

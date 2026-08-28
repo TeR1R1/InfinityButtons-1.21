@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#infinitybuttons:wooden_large_buttons",
+      "required": false
+    },
+    {
+      "id": "#infinitybuttons:wooden_secret_buttons",
+      "required": false
+    },
+    "infinitybuttons:letter_button",
+    "infinitybuttons:letter_lever"
+  ]
+}

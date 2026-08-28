@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "#": {
+      "item": "minecraft:stone_button"
+    },
+    "C": {
+      "tag": "minecraft:coals"
+    },
+    "O": {
+      "tag": "minecraft:soul_fire_base_blocks"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    " C",
+    "#S",
+    " O"
+  ],
+  "result": {
+    "id": "infinitybuttons:soul_torch_button",
+    "count": 1
+  },
+  "show_notification": true
+}

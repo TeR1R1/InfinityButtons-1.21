@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "group": "sticky_copper_buttons",
+  "ingredients": [
+    {
+      "item": "infinitybuttons:waxed_oxidized_copper_button"
+    },
+    {
+      "item": "minecraft:honey_bottle"
+    }
+  ],
+  "result": {
+    "id": "infinitybuttons:sticky_oxidized_copper_button",
+    "count": 1
+  }
+}

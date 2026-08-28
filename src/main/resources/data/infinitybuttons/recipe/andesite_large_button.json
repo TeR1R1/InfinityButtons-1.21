@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    {
+      "item": "infinitybuttons:andesite_button"
+    },
+    {
+      "item": "infinitybuttons:andesite_button"
+    }
+  ],
+  "result": {
+    "id": "infinitybuttons:andesite_large_button",
+    "count": 1
+  }
+}

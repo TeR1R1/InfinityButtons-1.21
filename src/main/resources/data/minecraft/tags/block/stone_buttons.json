@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "infinitybuttons:deepslate_button",
+    "infinitybuttons:granite_button",
+    "infinitybuttons:diorite_button",
+    "infinitybuttons:andesite_button",
+    "infinitybuttons:tuff_button",
+    "infinitybuttons:dripstone_button",
+    "infinitybuttons:calcite_button"
+  ]
+}
